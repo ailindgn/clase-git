@@ -14,3 +14,4 @@
 
 ## para pasar de working directory a staging area, apretamos simbolito + y nos lo pasa a staged 
 ## el - me lo vuelve a poner en cambios 
+## escribo en menssage le doy al tilde y ahi me lo sube a reposiory
