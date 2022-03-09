@@ -11,7 +11,16 @@
 
 ## untracked files es porque no lo trbaajamos en git. 
 ## en source control tmbpodemos ver estado 
-
 ## para pasar de working directory a staging area, apretamos simbolito + y nos lo pasa a staged 
 ## el - me lo vuelve a poner en cambios 
 ## escribo en menssage le doy al tilde y ahi me lo sube a reposiory
+
+## git add nombrearchivo
+## git add .  >>> para cargar TODOS a git
+
+#para commit para que quede version: 
+## git comit -"mensaje"
+
+
+## la rama master son los commit. 
+print(2+2)
