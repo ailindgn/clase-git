@@ -23,8 +23,7 @@
 
 
 ## la rama master son los commit. 
-print(2+2)
-#asd
-print('holi')
-#hehehe
-fdd
+
+
+### haecemos un git -m main y creamos archivo .gitignore y README.md 
+## hacemos git add . y dsps gir commit -m 'ssdf'
